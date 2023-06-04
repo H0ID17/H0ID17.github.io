@@ -1,0 +1,23 @@
+* {
+    background-color: lightblue;
+}
+header{
+    text-align: center;
+    font-size: large;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    background-color: lightgreen;
+    padding: 15px;
+}
+h2 {
+    background-color: rgb(43, 180, 71);
+    padding: 15px;
+}

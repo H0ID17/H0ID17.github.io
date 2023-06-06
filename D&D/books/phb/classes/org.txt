@@ -1,0 +1,30 @@
+
+Dmg casters:
+	Sorcerer
+	Warlock
+	Wizard
+
+Support casters:
+	Bard
+	Artificer
+	Cleric
+
+Tanks:
+	Barbarian
+	Druid
+	new?
+		Shaman
+		Warden
+
+		Battlemind
+		Psion
+
+Physical dmg:
+	Fighter
+	Rouge
+	Blood Hunter
+
+Physical/Magic suport:
+	Monk
+	Ranger
+	Paladin

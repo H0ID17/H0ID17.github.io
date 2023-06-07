@@ -17,7 +17,28 @@ h1,h3 {
     background-color: lightgreen;
     padding: 15px;
 }
+.collapsible {
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    border: none;
+    padding: 15px;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+h1:hover, h3:hover, .active, .collapsible:hover {
+    background-color: rgb(43, 180, 71);
+}
 h2 {
     background-color: rgb(43, 180, 71);
     padding: 15px;
+}
+.content {
+    display: none;
+    margin-left: 10%;
+}
+.space {
+    padding: 20px;
 }

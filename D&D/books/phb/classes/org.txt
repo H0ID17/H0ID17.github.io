@@ -4,27 +4,22 @@ Dmg casters:
 	Warlock
 	Wizard
 
-Support casters:
+Support casters Leader:
 	Bard
 	Artificer
 	Cleric
 
-Tanks:
+Tank:
 	Barbarian
 	Druid
-	new?
-		Shaman
-		Warden
+	Battlemind
 
-		Battlemind
-		Psion
-
-Physical dmg:
+Physical dmg Striker:
 	Fighter
 	Rouge
 	Blood Hunter
 
-Physical/Magic suport:
+Physical/Magic Controller:
 	Monk
 	Ranger
 	Paladin
